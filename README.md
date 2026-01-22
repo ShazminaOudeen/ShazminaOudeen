@@ -1,13 +1,9 @@
-## Hi there 👋
+## Hi there 👋I'm Shazmina
 
-<!--
-**ShazminaOudeen/ShazminaOudeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<h1 align="center">Hi there 👋 I'm Shazmina</h1>
-<h3 align="center">You can call me Shaz 😉</h3>
+### You can call me Shaz 😉
 
 <p align="center">
-💻 IT Undergraduate @ <b>SLIIT</b> <br/>
+💻 IT Undergraduate @ **SLIIT** <br/>
 🎨 Builder • Designer • Explorer <br/>
 ✨ Turning ideas into things that *exist*
 </p>
@@ -22,7 +18,7 @@
 
 ---
 
-### 🧠 Tech I often Work With
+### 🧠 Tech I Often Work With
 **Frontend**
 - ⚛️ React  
 - 🎨 Tailwind CSS  
@@ -52,7 +48,9 @@
 
 ### 📫 How to Reach Me
 - 📧 Email: **shazminaoud@gmail.com**
-- 💼 LinkedIn: [shazmina-oudeen](https://www.linkedin.com/in/shazmina-oudeen)
+- 💼 LinkedIn: [Shazmina Oudeen](https://www.linkedin.com/in/shazmina-oudeen)
+
+---
 
 ### ✨ My Vibe
 > *Creative mind, curious soul, calm chaos coder* 🌙  
@@ -63,4 +61,5 @@
 ### 📫 Let’s Connect
 If you love **tech, design, creativity, or random curiosity** —  
 you’ll probably enjoy working with me 😌✨
+
 -->
